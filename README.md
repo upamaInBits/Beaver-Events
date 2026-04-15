@@ -3,8 +3,11 @@
 A React Native mobile application for discovering and managing campus events.
 
 ## Features
+- Create new events (admin)
 - Browse upcoming events
 - View event details
+- Find friends to go to an event with
+- Chat with friends
 - User-friendly navigation and interface
 
 ## Tech Stack
