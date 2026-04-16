@@ -19,19 +19,17 @@ A React Native mobile application for discovering and managing campus events.
 
 ### Event Feed (Home Screen)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac3289de-f405-4eb8-8bf5-70fe0d8c680f" width="250"/>
+ <img width="401" height="845" alt="image (30)" src="https://github.com/user-attachments/assets/ac3289de-f405-4eb8-8bf5-70fe0d8c680f" />
 </p>
 
 ### Event Details & Participation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/056670ab-1aa6-4515-a46a-dce242a84e9a" width="230"/>
-  <img src="https://github.com/user-attachments/assets/56755fc9-9b30-4026-807b-28669fe136f1" width="230"/>
+  <img width="391" height="834" alt="image (32)" src="https://github.com/user-attachments/assets/056670ab-1aa6-4515-a46a-dce242a84e9a" /> <img width="391" height="839" alt="image (31)" src="https://github.com/user-attachments/assets/56755fc9-9b30-4026-807b-28669fe136f1" />
 </p>
 
 ### Chat & Social Interaction
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12e7c427-dd85-4c9a-9380-f171571995f8" width="230"/>
-  <img src="https://github.com/user-attachments/assets/a0050e1c-d1ba-48eb-9bef-6c0e215bb47c" width="230"/>
+  <img width="362" height="773" alt="image (34)" src="https://github.com/user-attachments/assets/12e7c427-dd85-4c9a-9380-f171571995f8" /> <img width="391" height="834" alt="image (33)" src="https://github.com/user-attachments/assets/a0050e1c-d1ba-48eb-9bef-6c0e215bb47c" />
 </p>
 ## Tech Stack
 - React Native
