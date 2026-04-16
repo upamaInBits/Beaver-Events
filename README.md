@@ -1,4 +1,4 @@
-# Beaver Events
+# Beaver Events Mobile App (React Native + Firebase)
 
 A React Native mobile application for discovering and managing campus events.
 
