@@ -29,8 +29,10 @@ A React Native mobile application for discovering and managing campus events.
 
 ### Chat & Social Interaction
 <p align="center">
-  <img width="362" height="773" alt="image (34)" src="https://github.com/user-attachments/assets/12e7c427-dd85-4c9a-9380-f171571995f8" /> <img width="391" height="834" alt="image (33)" src="https://github.com/user-attachments/assets/a0050e1c-d1ba-48eb-9bef-6c0e215bb47c" />
+  <img width="362" height="773" alt="image (34)" src="https://github.com/user-attachments/assets/12e7c427-dd85-4c9a-9380-f171571995f8" /> 
+ <img width="362" height="834" alt="image (33)" src="https://github.com/user-attachments/assets/a0050e1c-d1ba-48eb-9bef-6c0e215bb47c" />
 </p>
+
 ## Tech Stack
 - React Native
 - JavaScript
