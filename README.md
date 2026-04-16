@@ -1,3 +1,9 @@
+<img width="362" height="773" alt="image (34)" src="https://github.com/user-attachments/assets/47c71ed5-eafd-4f02-ac93-ef74eac8b42b" />
+<img width="391" height="834" alt="image (33)" src="https://github.com/user-attachments/assets/88a31f57-e5cc-405d-8cec-a18dd1f0e893" />
+<img width="391" height="834" alt="image (32)" src="https://github.com/user-attachments/assets/06baaeec-6329-479c-85ea-0ac4d9516f53" />
+<img width="391" height="839" alt="image (31)" src="https://github.com/user-attachments/assets/b49b959e-e80f-4eea-89f8-fe409762568e" />
+<img width="401" height="845" alt="image (30)" src="https://github.com/user-attachments/assets/a4292027-fca4-412b-bc17-8416dd17e28b" />
+<img width="1122" height="766" alt="image (29)" src="https://github.com/user-attachments/assets/49b0edf7-d13f-40fd-8783-438a75438073" />
 # Beaver Events Mobile App (React Native + Firebase)
 
 A React Native mobile application for discovering and managing campus events.
@@ -9,6 +15,31 @@ A React Native mobile application for discovering and managing campus events.
 - Find friends to go to an event with
 - Chat with friends
 - User-friendly navigation and interface
+
+## Screenshots
+
+### Authentication (Login & Sign Up)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47c71ed5-eafd-4f02-ac93-ef74eac8b42b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/88a31f57-e5cc-405d-8cec-a18dd1f0e893" width="250"/>
+  <img src="https://github.com/user-attachments/assets/06baaeec-6329-479c-85ea-0ac4d9516f53" width="250"/>
+</p>
+
+### Event Feed (Home Screen)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4292027-fca4-412b-bc17-8416dd17e28b" width="300"/>
+</p>
+
+### Event Details & Participation
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b49b959e-e80f-4eea-89f8-fe409762568e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/49b0edf7-d13f-40fd-8783-438a75438073" width="300"/>
+</p>
+
+### Chat & Social Interaction
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49b0edf7-d13f-40fd-8783-438a75438073" width="300"/>
+</p>
 
 ## Tech Stack
 - React Native
