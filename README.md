@@ -14,26 +14,28 @@ A React Native mobile application for discovering and managing campus events.
 ## Screenshots
 
 ### Authentication (Login & Sign Up)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/47c71ed5-eafd-4f02-ac93-ef74eac8b42b" width="250"/>
-  <img src="https://github.com/user-attachments/assets/88a31f57-e5cc-405d-8cec-a18dd1f0e893" width="250"/>
-  <img src="https://github.com/user-attachments/assets/06baaeec-6329-479c-85ea-0ac4d9516f53" width="250"/>
+<p align="left">
+<img width="1122" height="766" alt="image (29)" src="https://github.com/user-attachments/assets/ba025180-10e8-4a2a-b7c9-522e27c66059" />
 </p>
 
 ### Event Feed (Home Screen)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a4292027-fca4-412b-bc17-8416dd17e28b" width="300"/>
+<p align="left">
+ <img width="401" height="845" alt="image (30)" src="https://github.com/user-attachments/assets/ac3289de-f405-4eb8-8bf5-70fe0d8c680f" />
+
 </p>
 
 ### Event Details & Participation
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b49b959e-e80f-4eea-89f8-fe409762568e" width="250"/>
-  <img src="https://github.com/user-attachments/assets/49b0edf7-d13f-40fd-8783-438a75438073" width="300"/>
+<p align="left">
+  <img width="391" height="834" alt="image (32)" src="https://github.com/user-attachments/assets/056670ab-1aa6-4515-a46a-dce242a84e9a" />
+<img width="391" height="839" alt="image (31)" src="https://github.com/user-attachments/assets/56755fc9-9b30-4026-807b-28669fe136f1" />
+
 </p>
 
 ### Chat & Social Interaction
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49b0edf7-d13f-40fd-8783-438a75438073" width="300"/>
+<p align="left">
+  <img width="362" height="773" alt="image (34)" src="https://github.com/user-attachments/assets/12e7c427-dd85-4c9a-9380-f171571995f8" />
+<img width="391" height="834" alt="image (33)" src="https://github.com/user-attachments/assets/a0050e1c-d1ba-48eb-9bef-6c0e215bb47c" />
+
 </p>
 
 ## Tech Stack
