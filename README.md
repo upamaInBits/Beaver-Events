@@ -15,8 +15,7 @@ A React Native mobile application for discovering and managing campus events.
 
 ### Authentication (Login & Sign Up)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba025180-10e8-4a2a-b7c9-522e27c66059" width="250"/>
-</p>
+<img width="1122" height="766" alt="image (29)" src="https://github.com/user-attachments/assets/ba025180-10e8-4a2a-b7c9-522e27c66059" /></p>
 
 ### Event Feed (Home Screen)
 <p align="center">
