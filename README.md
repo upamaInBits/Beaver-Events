@@ -24,7 +24,8 @@ A React Native mobile application for discovering and managing campus events.
 
 ### Event Details & Participation
 <p align="center">
-  <img width="391" height="834" alt="image (32)" src="https://github.com/user-attachments/assets/056670ab-1aa6-4515-a46a-dce242a84e9a" /> <img width="391" height="839" alt="image (31)" src="https://github.com/user-attachments/assets/56755fc9-9b30-4026-807b-28669fe136f1" />
+ <img width="391" height="839" alt="image (31)" src="https://github.com/user-attachments/assets/56755fc9-9b30-4026-807b-28669fe136f1" />
+ <img width="391" height="834" alt="image (32)" src="https://github.com/user-attachments/assets/056670ab-1aa6-4515-a46a-dce242a84e9a" /> 
 </p>
 
 ### Chat & Social Interaction
